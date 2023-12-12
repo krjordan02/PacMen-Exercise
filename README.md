@@ -6,6 +6,10 @@ A PackMan generator that adds a PackMan headed in a random direction, with rando
 
 <img src="readMeImg.jpg" width="300px">
 
+## My PackMen Exercise
+
+<a href="https://krjordan02.github.io/PacMen-Exercise/">PackMen Exercise</a>
+
 ## Installation 
 
 Simply clone or download the project folder to your local machine and open the index.html file within your browser. 
